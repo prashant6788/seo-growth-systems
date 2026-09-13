@@ -14,20 +14,46 @@ The objective is to build **discoverability that contributes to qualified demand
 
 ---
 
+## Quick Navigation
+
+- 🚀 [SEO Growth Framework](seo-growth-framework.md)
+- 🔧 [Technical SEO Audit Framework](technical-seo-audit-framework.md)
+- 🤖 [GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)
+- ✅ [AI Search Visibility Checklist](ai-search-visibility-checklist.md)
+- 💻 [SaaS SEO Framework](saas-seo-framework.md)
+- 📍 [Local SEO Audit Framework](local-seo-audit-framework.md)
+- 📊 [SEO Reporting Framework](seo-reporting-framework.md)
+
+---
+
+## Who This Repository Is For
+
+These frameworks are designed for:
+
+- SEO professionals and consultants
+- SaaS and technology companies
+- Marketing and growth teams
+- Local and multi-location businesses
+- Founders building organic acquisition systems
+- Agencies developing SEO, GEO and AI-search capabilities
+
+---
+
 ## What This Repository Covers
 
 ### 🔎 SEO
+
 - Technical SEO
 - On-page optimization
 - Search intent and keyword research
 - Content architecture
 - Internal linking
-- Ecommerce SEO
 - SaaS SEO
 - Local SEO
 - SEO measurement and reporting
 
 ### 🤖 GEO & AI Search Visibility
+
 - Generative Engine Optimization (GEO)
 - AI search visibility
 - LLM citation readiness
@@ -37,6 +63,7 @@ The objective is to build **discoverability that contributes to qualified demand
 - AI-assisted SEO workflows
 
 ### 📈 Growth Systems
+
 - Search-to-revenue measurement
 - Conversion-focused organic growth
 - SEO reporting frameworks
@@ -46,52 +73,171 @@ The objective is to build **discoverability that contributes to qualified demand
 
 ---
 
-## Frameworks & Resources
+# Frameworks & Resources
 
-This repository contains practical frameworks for building and measuring search visibility across traditional search engines and AI-powered discovery platforms.
+## 🚀 Start Here
 
-### 🚀 Start Here
+### [SEO Growth Framework](seo-growth-framework.md)
 
-**[SEO Growth Framework](seo-growth-framework.md)**  
-The core framework connecting technical SEO, search intent, content architecture, authority, AI visibility, conversion and revenue.
+The core framework connecting:
 
----
+**Business Goals → Search Demand → Technical Foundation → Search Intent → Content Architecture → Authority → AI Visibility → Conversion → Revenue → Measurement**
 
-### 🔧 Technical SEO
-
-**[Technical SEO Audit Framework](technical-seo-audit-framework.md)**  
-A 100-point technical SEO framework covering crawlability, rendering, indexation, canonicals, architecture, Core Web Vitals, structured data and technical monitoring.
+Use this as the starting point for understanding the complete SEO growth system.
 
 ---
 
-### 🤖 GEO & AI Search
+## 🔧 Technical SEO
 
-**[GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)**  
-A practical framework for entity clarity, AI-search visibility, citation readiness, reference-worthy content and LLM discovery.
+### [Technical SEO Audit Framework](technical-seo-audit-framework.md)
 
-**[AI Search Visibility Checklist](ai-search-visibility-checklist.md)**  
-A practical checklist for evaluating visibility across Google AI experiences, ChatGPT, Gemini, Perplexity and other AI-powered discovery platforms.
+A comprehensive technical SEO framework covering:
+
+- Crawlability
+- Indexation
+- Canonicals
+- HTTP status codes
+- Site architecture
+- Internal linking
+- JavaScript SEO
+- Core Web Vitals
+- Structured data
+- Ecommerce technical SEO
+- International SEO
+- Migrations
+- Monitoring
+
+Includes a **100-point Technical SEO Audit Checklist**.
 
 ---
 
-### 💻 SaaS SEO
+## 🤖 GEO & AI Search Visibility
 
-**[SaaS SEO Framework](saas-seo-framework.md)**  
-A framework for SaaS product discovery, feature SEO, integration SEO, comparisons, content authority, pipeline and revenue measurement.
+### [GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)
+
+A practical framework for improving visibility across AI-powered discovery systems.
+
+Covers:
+
+- Entity clarity
+- Technical accessibility
+- Passage-level structure
+- Topical authority
+- External authority
+- Structured information
+- Citation readiness
+- Original research
+- Prompt testing
+- AI visibility measurement
+
+Includes a **100-point GEO / LLM Visibility Audit**.
 
 ---
 
-### 📍 Local SEO
+### [AI Search Visibility Checklist](ai-search-visibility-checklist.md)
 
-**[Local SEO Audit Framework](local-seo-audit-framework.md)**  
-A 100-point local SEO framework covering Google Business Profile, local landing pages, reviews, citations, authority, local rankings and conversion.
+A practical checklist for evaluating and improving visibility across:
+
+- Google AI experiences
+- ChatGPT
+- Gemini
+- Perplexity
+- Other AI-powered discovery platforms
+
+Covers technical accessibility, entity authority, content quality, citations, structured data, AI testing and measurement.
 
 ---
 
-### 📊 SEO Measurement
+## 💻 SaaS SEO
 
-**[SEO Reporting Framework](seo-reporting-framework.md)**  
-A framework for connecting Search Console, analytics, CRM, lead quality, pipeline, revenue and AI visibility into decision-focused SEO reporting.
+### [SaaS SEO Framework](saas-seo-framework.md)
+
+A practical SaaS SEO framework connecting organic visibility with product discovery, qualified pipeline and revenue.
+
+Covers:
+
+- Product SEO
+- Feature pages
+- Use case pages
+- Industry pages
+- Integration SEO
+- Comparison pages
+- Alternative pages
+- SaaS content strategy
+- Technical SEO
+- GEO / AI visibility
+- Product-led growth
+- Sales-led growth
+- CRM attribution
+- Pipeline measurement
+
+Includes a **75-point SaaS SEO Checklist**.
+
+---
+
+## 📍 Local SEO
+
+### [Local SEO Audit Framework](local-seo-audit-framework.md)
+
+A practical framework for local and multi-location businesses.
+
+Covers:
+
+- Google Business Profile
+- Business categories
+- Local landing pages
+- Reviews
+- Citations
+- Local links
+- Geographic rankings
+- Service-area businesses
+- Multi-location SEO
+- Local AI visibility
+- Conversion
+- CRM attribution
+
+Includes a **100-point Local SEO Audit**.
+
+---
+
+## 📊 SEO Measurement
+
+### [SEO Reporting Framework](seo-reporting-framework.md)
+
+A practical framework for connecting SEO activity with measurable business outcomes.
+
+Covers:
+
+- Google Search Console
+- Analytics
+- Rankings
+- Technical SEO
+- Content performance
+- Authority
+- GEO / AI visibility
+- Lead quality
+- CRM attribution
+- Pipeline
+- Revenue
+- Executive reporting
+- SEO dashboards
+
+Includes a **100-point SEO Reporting Audit**.
+
+---
+
+## Resource Library
+
+| Resource | Primary Focus | Status |
+|---|---|---|
+| [SEO Growth Framework](seo-growth-framework.md) | End-to-end SEO growth strategy | ✅ Published |
+| [Technical SEO Audit Framework](technical-seo-audit-framework.md) | Crawlability, indexation & technical health | ✅ Published |
+| [GEO / LLM Visibility Framework](geo-llm-visibility-framework.md) | AI visibility & LLM citation readiness | ✅ Published |
+| [AI Search Visibility Checklist](ai-search-visibility-checklist.md) | AI-search readiness & visibility auditing | ✅ Published |
+| [SaaS SEO Framework](saas-seo-framework.md) | SaaS product discovery & pipeline | ✅ Published |
+| [Local SEO Audit Framework](local-seo-audit-framework.md) | GBP, local visibility & reputation | ✅ Published |
+| [SEO Reporting Framework](seo-reporting-framework.md) | Search-to-revenue measurement | ✅ Published |
+
 ---
 
 ## My Approach
@@ -100,58 +246,52 @@ SEO is increasingly bigger than traditional rankings.
 
 Businesses now need to think about visibility across:
 
-**Google Search → AI Overviews → ChatGPT → Perplexity → Gemini → other AI discovery experiences**
+**Google Search → AI Overviews → ChatGPT → Gemini → Perplexity → other AI-powered discovery experiences**
 
-My work focuses on connecting traditional SEO fundamentals with **entity authority, structured information, useful content and AI-search visibility**.
+My approach connects traditional SEO fundamentals with:
 
-The objective isn't simply more traffic.
+- Technical accessibility
+- Search intent
+- Content architecture
+- Entity authority
+- Structured information
+- External authority
+- AI-search visibility
+- Conversion
+- CRM attribution
+- Revenue measurement
 
-It's building **discoverability that contributes to business growth and revenue.**
+The objective is not simply more traffic.
 
----
-
-## Industry Experience
-
-My SEO and digital growth work includes experience across:
-
-`SaaS` · `Real Estate` · `Education` · `Ecommerce` · `Local Businesses`
-
----
-
-## About Me
-
-I'm **Prashant Rajput**, Founder of Touchstone Infotech.
-
-I work across **AI, automation, SEO/GEO, CRM, performance marketing and system integration**, building practical systems that connect marketing activity with measurable business outcomes.
-
-- 13+ years in digital growth and technology
-- 300+ businesses supported
-- Experience across India, USA, UK, Canada & Australia
-- ₹2–3 Cr+ annual media spend managed
-- Leading a 26-person growth and technology team
+It is building **discoverability that contributes to business growth and measurable revenue outcomes.**
 
 ---
 
-## Connect
+## SEO Growth System
 
-🌐 [Touchstone Infotech](https://www.touchstoneinfotech.com/)  
-💼 [LinkedIn – Prashant Rajput](https://www.linkedin.com/in/prashant6788/)  
-👤 [GitHub – Prashant Rajput](https://github.com/prashant6788)
+A simple way to think about the complete system:
 
----
-
-## What’s Next
-
-Future additions may include:
-
-- Ecommerce SEO Framework
-- SEO Content Refresh Framework
-- Search-to-Revenue Attribution Templates
-- AI Visibility Testing Templates
-- Practical implementation examples and experiments
-
-The repository will continue to evolve as frameworks are tested and refined through real-world implementation.
-
----
-
-**Maintained by [Prashant Rajput](https://github.com/prashant6788) · Founder, [Touchstone Infotech](https://www.touchstoneinfotech.com/)**
+```text
+Business Goals
+      ↓
+Search Demand
+      ↓
+Technical Foundation
+      ↓
+Search Intent
+      ↓
+Content Architecture
+      ↓
+Authority
+      ↓
+SEO + AI Visibility
+      ↓
+Qualified Traffic
+      ↓
+Conversion
+      ↓
+CRM
+      ↓
+Pipeline / Revenue
+      ↓
+Measurement & Improvement
