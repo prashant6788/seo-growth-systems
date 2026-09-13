@@ -489,7 +489,7 @@ The next phase of this repository is focused on showing how the frameworks are a
 
 Planned examples include:
 
-- [ ] Sanitized Technical SEO Audit Example
+- [x] [Sanitized Technical SEO Audit Example](technical-seo-audit-example.md)
 - [ ] GEO / AI Visibility Baseline Example
 - [ ] Search-to-Revenue Reporting Example
 - [ ] Local SEO Audit Example
