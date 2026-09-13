@@ -44,10 +44,16 @@ This repository documents practical frameworks, checklists, experiments and impl
 
 This repository will gradually include practical resources such as:
 
+### ⭐ Featured Resource
+
+**[AI Search Visibility Checklist](ai-search-visibility-checklist.md)**
+
+A practical framework for evaluating and improving visibility across Google AI experiences, ChatGPT, Gemini, Perplexity and other AI-powered discovery platforms.
+
 | Resource | Status |
 |---|---|
 | SEO Growth Framework | 🚧 Building |
-| AI Search Visibility Checklist | 🚧 Building |
+| [AI Search Visibility Checklist](ai-search-visibility-checklist.md) | ✅ Published |
 | Technical SEO Audit Framework | 📌 Planned |
 | SaaS SEO Framework | 📌 Planned |
 | Local SEO Audit Framework | 📌 Planned |
@@ -55,7 +61,6 @@ This repository will gradually include practical resources such as:
 | SEO Reporting Framework | 📌 Planned |
 
 Rather than publishing empty folders, resources will be added as they are completed and tested.
-
 ---
 
 ## My Approach
