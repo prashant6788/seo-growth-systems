@@ -42,25 +42,50 @@ This repository documents practical frameworks, checklists, experiments and impl
 
 ## Frameworks & Resources
 
-This repository will gradually include practical resources such as:
+This repository contains practical frameworks for building and measuring search visibility across traditional search engines and AI-powered discovery platforms.
 
-### ⭐ Featured Resource
+### 🚀 Start Here
 
-**[AI Search Visibility Checklist](ai-search-visibility-checklist.md)**
+**[SEO Growth Framework](seo-growth-framework.md)**  
+The core framework connecting technical SEO, search intent, content architecture, authority, AI visibility, conversion and revenue.
 
-A practical framework for evaluating and improving visibility across Google AI experiences, ChatGPT, Gemini, Perplexity and other AI-powered discovery platforms.
+---
 
-| Resource | Status |
-|---|---|
-| SEO Growth Framework | 🚧 Building |
-| [AI Search Visibility Checklist](ai-search-visibility-checklist.md) | ✅ Published |
-| Technical SEO Audit Framework | 📌 Planned |
-| SaaS SEO Framework | 📌 Planned |
-| Local SEO Audit Framework | 📌 Planned |
-| GEO / LLM Visibility Framework | 📌 Planned |
-| SEO Reporting Framework | 📌 Planned |
+### 🔧 Technical SEO
 
-Rather than publishing empty folders, resources will be added as they are completed and tested.
+**[Technical SEO Audit Framework](technical-seo-audit-framework.md)**  
+A 100-point technical SEO framework covering crawlability, rendering, indexation, canonicals, architecture, Core Web Vitals, structured data and technical monitoring.
+
+---
+
+### 🤖 GEO & AI Search
+
+**[GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)**  
+A practical framework for entity clarity, AI-search visibility, citation readiness, reference-worthy content and LLM discovery.
+
+**[AI Search Visibility Checklist](ai-search-visibility-checklist.md)**  
+A practical checklist for evaluating visibility across Google AI experiences, ChatGPT, Gemini, Perplexity and other AI-powered discovery platforms.
+
+---
+
+### 💻 SaaS SEO
+
+**[SaaS SEO Framework](saas-seo-framework.md)**  
+A framework for SaaS product discovery, feature SEO, integration SEO, comparisons, content authority, pipeline and revenue measurement.
+
+---
+
+### 📍 Local SEO
+
+**[Local SEO Audit Framework](local-seo-audit-framework.md)**  
+A 100-point local SEO framework covering Google Business Profile, local landing pages, reviews, citations, authority, local rankings and conversion.
+
+---
+
+### 📊 SEO Measurement
+
+**[SEO Reporting Framework](seo-reporting-framework.md)**  
+A framework for connecting Search Console, analytics, CRM, lead quality, pipeline, revenue and AI visibility into decision-focused SEO reporting.
 ---
 
 ## My Approach
