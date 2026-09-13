@@ -485,12 +485,8 @@ My focus is building practical systems that connect marketing activity with meas
 
 # 🧪 Implementation Examples
 
-The next phase of this repository is focused on showing how the frameworks are applied in practice.
-
-Planned examples include:
-
 - [x] [Sanitized Technical SEO Audit Example](technical-seo-audit-example.md)
-- [ ] GEO / AI Visibility Baseline Example
+- [x] [GEO / AI Visibility Baseline Example](geo-ai-visibility-baseline-example.md)
 - [ ] Search-to-Revenue Reporting Example
 - [ ] Local SEO Audit Example
 
