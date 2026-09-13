@@ -36,11 +36,11 @@ It explains the complete system for connecting search visibility with measurable
 
 **Search Demand → Technical Foundation → Content → Authority → AI Visibility → Conversion → Revenue**
 
-Then use the specialized frameworks below depending on what you are working on.
+Then use the specialized frameworks and practical templates below depending on what you are working on.
 
 ---
 
-## 📚 Framework Library
+# 📚 Framework Library
 
 | | Framework | Best For |
 |---|---|---|
@@ -51,6 +51,19 @@ Then use the specialized frameworks below depending on what you are working on.
 | 💻 | **[SaaS SEO Framework](saas-seo-framework.md)** | SaaS organic acquisition, product discovery & pipeline |
 | 📍 | **[Local SEO Audit Framework](local-seo-audit-framework.md)** | GBP, local rankings, reviews & local authority |
 | 📊 | **[SEO Reporting Framework](seo-reporting-framework.md)** | Connecting SEO with leads, CRM, pipeline & revenue |
+
+---
+
+# 🧰 Practical Templates
+
+These resources are designed to be used directly during audits, reporting and implementation.
+
+| | Template | Best For |
+|---|---|---|
+| 🔍 | **[SEO Audit Worksheet](seo-audit-worksheet.md)** | Running a structured website SEO audit |
+| 🤖 | **[GEO / AI Prompt Testing Template](geo-prompt-testing-template.md)** | Measuring brand visibility across AI platforms |
+| 📊 | **[Monthly SEO Reporting Template](monthly-seo-reporting-template.md)** | Monthly SEO, lead and revenue reporting |
+| 🔧 | **[Technical SEO Issue Template](technical-seo-issue-template.md)** | Turning SEO findings into developer-ready tasks |
 
 ---
 
@@ -80,7 +93,7 @@ The objective is to create a repeatable system where **search visibility contrib
 
 ## 🎯 Who This Repository Is For
 
-These frameworks are designed for:
+These frameworks and templates are designed for:
 
 - SEO professionals and consultants
 - Founders and business owners
@@ -94,7 +107,7 @@ The resources are designed for people who want to move beyond rankings and traff
 
 ---
 
-# 📖 Frameworks
+# 📖 Core Frameworks
 
 ## 🚀 SEO Growth Framework
 
@@ -260,6 +273,96 @@ Includes a **100-point SEO Reporting Audit**.
 
 ---
 
+# 🧰 Practical Templates
+
+## 🔍 SEO Audit Worksheet
+
+### [Open the SEO Audit Worksheet →](seo-audit-worksheet.md)
+
+A practical worksheet for auditing:
+
+- Technical SEO
+- Search intent
+- On-page SEO
+- Content quality
+- Authority
+- GEO / AI visibility
+- Local SEO
+- Conversion
+- Measurement
+- Competitive gaps
+
+Useful for turning an SEO audit into a prioritized action plan.
+
+---
+
+## 🤖 GEO / AI Search Prompt Testing Template
+
+### [Open the GEO / AI Search Prompt Testing Template →](geo-prompt-testing-template.md)
+
+A repeatable methodology for testing brand visibility across AI-powered discovery systems.
+
+Covers:
+
+- Direct brand prompts
+- Category discovery
+- Recommendation prompts
+- Problem/solution prompts
+- Comparison prompts
+- Location-based prompts
+- Citation analysis
+- Competitor visibility
+- Entity accuracy
+- Prompt variation testing
+- Visibility tracking over time
+
+---
+
+## 📊 Monthly SEO Reporting Template
+
+### [Open the Monthly SEO Reporting Template →](monthly-seo-reporting-template.md)
+
+A practical monthly reporting template covering:
+
+- Search visibility
+- Traffic
+- Landing pages
+- Conversions
+- Content
+- Technical SEO
+- Authority
+- GEO / AI visibility
+- Lead quality
+- CRM attribution
+- Pipeline
+- Revenue
+- Next-month priorities
+
+Designed to move reporting beyond rankings and traffic.
+
+---
+
+## 🔧 Technical SEO Issue Template
+
+### [Open the Technical SEO Issue Template →](technical-seo-issue-template.md)
+
+A structured issue template for turning technical SEO findings into developer-ready implementation tasks.
+
+Useful for:
+
+- GitHub Issues
+- Jira
+- ClickUp
+- Asana
+- Linear
+- Internal technical SEO workflows
+
+The template covers:
+
+**Issue → Evidence → Impact → Recommended Fix → Validation → Success Criteria**
+
+---
+
 # 🔍 What This Repository Covers
 
 ## Traditional SEO
@@ -380,9 +483,24 @@ My focus is building practical systems that connect marketing activity with meas
 
 ---
 
+# 🧪 Implementation Examples
+
+The next phase of this repository is focused on showing how the frameworks are applied in practice.
+
+Planned examples include:
+
+- [ ] Sanitized Technical SEO Audit Example
+- [ ] GEO / AI Visibility Baseline Example
+- [ ] Search-to-Revenue Reporting Example
+- [ ] Local SEO Audit Example
+
+These examples will be anonymized and designed to demonstrate methodology rather than expose confidential client information.
+
+---
+
 # 🗺️ Repository Roadmap
 
-The current core framework library includes:
+## Completed
 
 - [x] SEO Growth Framework
 - [x] Technical SEO Audit Framework
@@ -391,16 +509,20 @@ The current core framework library includes:
 - [x] GEO / LLM Visibility Framework
 - [x] AI Search Visibility Checklist
 - [x] SEO Reporting Framework
+- [x] SEO Audit Worksheet
+- [x] GEO / AI Search Prompt Testing Template
+- [x] Monthly SEO Reporting Template
+- [x] Technical SEO Issue Template
+- [x] CONTRIBUTING.md
+- [x] CC BY 4.0 License
 
-Potential future additions:
+## Potential Future Additions
 
 - [ ] Ecommerce SEO Framework
 - [ ] SEO Content Refresh Framework
-- [ ] Search-to-Revenue Attribution Templates
-- [ ] AI Visibility Testing Templates
-- [ ] SEO Audit Templates
-- [ ] Practical implementation examples
-- [ ] Real-world experiments and observations
+- [ ] Search-to-Revenue Attribution Template
+- [ ] Real implementation examples
+- [ ] Practical SEO experiments and observations
 
 The goal is **not to publish resources for volume**.
 
@@ -411,6 +533,8 @@ New resources should add practical value to the overall search growth system.
 # 🤝 Contributing
 
 Suggestions, corrections and practical implementation examples are welcome.
+
+Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** before submitting a pull request.
 
 Useful contributions may include:
 
@@ -453,9 +577,16 @@ Recommendations should be evaluated against:
 
 # 📄 License
 
-The frameworks and educational resources in this repository are intended for public educational use.
+The original frameworks, checklists and educational resources in this repository are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
 
-A formal repository license should be added separately to define reuse, modification and attribution terms.
+You are free to share and adapt the material, including for commercial purposes, provided appropriate attribution is given.
+
+**Suggested attribution:**
+
+> SEO Growth Systems by Prashant Rajput  
+> https://github.com/prashant6788/seo-growth-systems
+
+See the [LICENSE](LICENSE) file for full license terms.
 
 ---
 
