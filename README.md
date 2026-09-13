@@ -140,13 +140,17 @@ I work across **AI, automation, SEO/GEO, CRM, performance marketing and system i
 
 ---
 
-## Repository Roadmap
+## What’s Next
 
-This is an evolving knowledge repository.
+Future additions may include:
 
-New frameworks, checklists, templates and experiments will be added as they are developed and validated through practical implementation.
+- Ecommerce SEO Framework
+- SEO Content Refresh Framework
+- Search-to-Revenue Attribution Templates
+- AI Visibility Testing Templates
+- Practical implementation examples and experiments
 
-If you find the resources useful, consider **starring the repository** to follow future updates.
+The repository will continue to evolve as frameworks are tested and refined through real-world implementation.
 
 ---
 
