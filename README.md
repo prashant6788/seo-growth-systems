@@ -1,29 +1,73 @@
-# SEO Growth Systems
+<div align="center">
 
-### Practical SEO, GEO & AI Search Visibility Frameworks
+# 🔎 SEO Growth Systems
 
-A public knowledge repository by **Prashant Rajput**, Founder of [Touchstone Infotech](https://www.touchstoneinfotech.com/), focused on building sustainable visibility across traditional search engines and AI-powered discovery platforms.
+### Practical Frameworks for SEO, GEO & AI Search Visibility
 
-This repository brings together practical frameworks for:
+**Technical SEO · SaaS SEO · Local SEO · GEO · AI Search · Reporting**
 
-**Technical SEO · SaaS SEO · Local SEO · GEO · AI Search Visibility · SEO Reporting**
+A public knowledge base for building search visibility that contributes to  
+**qualified demand, pipeline and revenue.**
 
-The focus is not simply rankings or traffic.
+<br>
 
-The objective is to build **discoverability that contributes to qualified demand, pipeline and revenue.**
+[![SEO](https://img.shields.io/badge/SEO-Growth%20Systems-blue)](#-framework-library)
+[![GEO](https://img.shields.io/badge/GEO-AI%20Visibility-purple)](geo-llm-visibility-framework.md)
+[![Technical SEO](https://img.shields.io/badge/Technical-SEO-green)](technical-seo-audit-framework.md)
+[![Local SEO](https://img.shields.io/badge/Local-SEO-orange)](local-seo-audit-framework.md)
+[![SaaS SEO](https://img.shields.io/badge/SaaS-SEO-0A66C2)](saas-seo-framework.md)
+
+<br>
+
+**Created and maintained by [Prashant Rajput](https://github.com/prashant6788)**  
+Founder, [Touchstone Infotech](https://www.touchstoneinfotech.com/)
+
+</div>
 
 ---
 
-## Quick Navigation
+## 🧭 Start Here
 
-- 🚀 [SEO Growth Framework](seo-growth-framework.md)
-- 🔧 [Technical SEO Audit Framework](technical-seo-audit-framework.md)
-- 🤖 [GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)
-- ✅ [AI Search Visibility Checklist](ai-search-visibility-checklist.md)
-- 💻 [SaaS SEO Framework](saas-seo-framework.md)
-- 📍 [Local SEO Audit Framework](local-seo-audit-framework.md)
-- 📊 [SEO Reporting Framework](seo-reporting-framework.md)
+New to the repository? Start with the **[SEO Growth Framework](seo-growth-framework.md)**.
 
+It explains the complete system:
+
+**Search Demand → Technical Foundation → Content → Authority → AI Visibility → Conversion → Revenue**
+
+Then use the specialized frameworks below depending on what you are working on.
+
+---
+
+## 📚 Framework Library
+
+| | Framework | Best For |
+|---|---|---|
+| 🚀 | **[SEO Growth Framework](seo-growth-framework.md)** | Building an end-to-end SEO growth strategy |
+| 🔧 | **[Technical SEO Audit Framework](technical-seo-audit-framework.md)** | Technical audits, crawling, indexing & architecture |
+| 🤖 | **[GEO / LLM Visibility Framework](geo-llm-visibility-framework.md)** | AI visibility, entities & LLM citation readiness |
+| ✅ | **[AI Search Visibility Checklist](ai-search-visibility-checklist.md)** | Auditing visibility across AI-powered discovery |
+| 💻 | **[SaaS SEO Framework](saas-seo-framework.md)** | SaaS organic acquisition, product discovery & pipeline |
+| 📍 | **[Local SEO Audit Framework](local-seo-audit-framework.md)** | GBP, local rankings, reviews & local authority |
+| 📊 | **[SEO Reporting Framework](seo-reporting-framework.md)** | Connecting SEO with leads, CRM, pipeline & revenue |
+
+---
+
+## 🧩 The SEO Growth System
+
+```mermaid
+flowchart LR
+    A[Search Demand] --> B[Technical SEO]
+    B --> C[Content & Intent]
+    C --> D[Authority]
+    D --> E[SEO Visibility]
+    D --> F[AI / GEO Visibility]
+    E --> G[Qualified Traffic]
+    F --> G
+    G --> H[Conversion]
+    H --> I[CRM / Pipeline]
+    I --> J[Revenue]
+    J --> K[Measurement]
+    K --> A
 ---
 
 ## Who This Repository Is For
