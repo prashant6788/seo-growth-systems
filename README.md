@@ -2,9 +2,15 @@
 
 ### Practical SEO, GEO & AI Search Visibility Frameworks
 
-A public knowledge repository by **Prashant Rajput**, Founder of [Touchstone Infotech](https://www.touchstoneinfotech.com/), focused on building sustainable organic visibility across traditional search engines and AI-powered discovery platforms.
+A public knowledge repository by **Prashant Rajput**, Founder of [Touchstone Infotech](https://www.touchstoneinfotech.com/), focused on building sustainable visibility across traditional search engines and AI-powered discovery platforms.
 
-This repository documents practical frameworks, checklists, experiments and implementation approaches developed from real-world SEO and growth work.
+This repository brings together practical frameworks for:
+
+**Technical SEO · SaaS SEO · Local SEO · GEO · AI Search Visibility · SEO Reporting**
+
+The focus is not simply rankings or traffic.
+
+The objective is to build **discoverability that contributes to qualified demand, pipeline and revenue.**
 
 ---
 
